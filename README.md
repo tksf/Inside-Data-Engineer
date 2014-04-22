@@ -1,4 +1,4 @@
-Blackjack game fo Insight Data Engineer coding challenge
+Blackjack game for Insight Data Engineer coding challenge
 ==============
 
 The Game
